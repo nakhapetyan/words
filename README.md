@@ -1,4 +1,4 @@
-# Service for search words from given letters
+# Service for searching words from given letters
 
 ## API
 
